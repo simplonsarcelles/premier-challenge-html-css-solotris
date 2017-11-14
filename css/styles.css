@@ -1,0 +1,45 @@
+body {
+	background-color: #ebebeb;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: #7d7d7d;
+	font-size: 15px;
+	line-height: 1.6em;
+}
+
+div {
+	width: 500px;
+	margin: 0 auto;
+}
+h1 {
+	color: #dc5656;
+}
+
+h2 {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+h3 {
+	font-size: 16px;
+	font-weight: 300;
+}
+
+h1, h2, h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+a {
+	color: #ccc;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #dc5656;
+}
+
+.card {
+	background-color: white;
+	text-align: center;
+}
+
