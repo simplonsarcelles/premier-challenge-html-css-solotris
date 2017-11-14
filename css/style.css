@@ -1,0 +1,87 @@
+
+
+body {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+
+body{
+    line-height: 10px;
+    background-color: grey;
+
+}
+
+H1, H2, H3 {
+
+    font-family: 'Roboto', sans-serif !important;
+    color: rgb(54, 41, 41);
+    width: 60%;
+    line-height: 10px;
+    margin: 30px;
+
+}
+
+
+ul{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+li {
+
+text-decoration: none;
+list-style-type: none; 
+
+}
+
+a:hover {
+
+    color: white;
+
+}
+
+
+/* img {
+display: flex;
+flex-direction: column;
+} */
+
+/* img:nth-child() {
+
+} */
+
+section {
+
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+
+.article {
+
+    display: flex;
+    flex-direction: column;
+
+
+    
+}
+
+img {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+box1  {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+box2 {
+    display: flex;
+    flex-direction: row;
+}
